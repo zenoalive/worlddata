@@ -1,0 +1,401 @@
+Country,Sex,Mean height
+Afghanistan,Boys,165.6149624
+Albania,Boys,172.2057496
+Algeria,Boys,169.9052241
+American Samoa,Boys,174.9377275
+Andorra,Boys,176.0447785
+Angola,Boys,165.4640849
+Antigua and Barbuda,Boys,176.1824659
+Argentina,Boys,172.7849129
+Armenia,Boys,171.1171055
+Australia,Boys,177.5095634
+Austria,Boys,177.4924729
+Azerbaijan,Boys,170.3891698
+Bahamas,Boys,172.6014005
+Bahrain,Boys,170.813966
+Bangladesh,Boys,162.6834255
+Barbados,Boys,175.223632
+Belarus,Boys,176.1353071
+Belgium,Boys,178.6826564
+Belize,Boys,169.2637365
+Benin,Boys,166.3612194
+Bermuda,Boys,176.3562763
+Bhutan,Boys,164.9338355
+Bolivia,Boys,166.6884565
+Bosnia and Herzegovina,Boys,178.7170737
+Botswana,Boys,169.588977
+Brazil,Boys,173.0828709
+Brunei Darussalam,Boys,165.1454996
+Bulgaria,Boys,171.069662
+Burkina Faso,Boys,166.2736915
+Burundi,Boys,164.6156566
+Cabo Verde,Boys,170.6164812
+Cambodia,Boys,162.8718613
+Cameroon,Boys,167.4652423
+Canada,Boys,177.2774672
+Central African Republic,Boys,166.1854933
+Chad,Boys,167.5350363
+Chile,Boys,171.4702981
+China,Boys,171.5470052
+China (Hong Kong SAR),Boys,172.03413
+Colombia,Boys,168.8584487
+Comoros,Boys,165.5868833
+Congo,Boys,166.6446729
+Cook Islands,Boys,177.1217754
+Costa Rica,Boys,172.2924969
+Cote d'Ivoire,Boys,166.6479032
+Croatia,Boys,180.1337597
+Cuba,Boys,171.751306
+Cyprus,Boys,172.1901694
+Czech Republic,Boys,179.084919
+Denmark,Boys,179.5662032
+Djibouti,Boys,168.0801641
+Dominica,Boys,177.7833682
+Dominican Republic,Boys,172.175587
+DR Congo,Boys,165.0891959
+Ecuador,Boys,165.9018311
+Egypt,Boys,166.660186
+El Salvador,Boys,167.7268027
+Equatorial Guinea,Boys,165.0793458
+Eritrea,Boys,168.7758417
+Estonia,Boys,180.6470604
+Ethiopia,Boys,164.1765042
+Fiji,Boys,172.2506576
+Finland,Boys,178.1299209
+France,Boys,177.0815085
+French Polynesia,Boys,177.3753963
+Gabon,Boys,167.4502692
+Gambia,Boys,165.6881774
+Georgia,Boys,171.8134739
+Germany,Boys,178.6661143
+Ghana,Boys,166.7566024
+Greece,Boys,176.5697125
+Greenland,Boys,171.9584024
+Grenada,Boys,174.7512607
+Guatemala,Boys,162.2306667
+Guinea,Boys,167.500979
+Guinea Bissau,Boys,165.2297368
+Guyana,Boys,170.1196339
+Haiti,Boys,170.23941
+Honduras,Boys,167.0580087
+Hungary,Boys,175.2817199
+Iceland,Boys,179.1485864
+India,Boys,162.6003612
+Indonesia,Boys,162.8259629
+Iran,Boys,171.908903
+Iraq,Boys,170.3111732
+Ireland,Boys,176.6956112
+Israel,Boys,174.1621976
+Italy,Boys,173.026971
+Jamaica,Boys,174.1244334
+Japan,Boys,170.7632128
+Jordan,Boys,169.5936624
+Kazakhstan,Boys,170.9617934
+Kenya,Boys,167.3091997
+Kiribati,Boys,168.9063537
+Kuwait,Boys,171.7633373
+Kyrgyzstan,Boys,167.4808867
+Lao PDR,Boys,160.3841779
+Latvia,Boys,176.6826999
+Lebanon,Boys,174.8479004
+Lesotho,Boys,165.0251364
+Liberia,Boys,161.871754
+Libya,Boys,171.5630276
+Lithuania,Boys,178.5472505
+Luxembourg,Boys,176.3926675
+Macedonia (TFYR),Boys,173.8433141
+Madagascar,Boys,163.6676661
+Malawi,Boys,163.8895196
+Malaysia,Boys,166.2944151
+Maldives,Boys,167.0694363
+Mali,Boys,169.9053442
+Malta,Boys,171.7304883
+Marshall Islands,Boys,162.8512957
+Mauritania,Boys,163.1801498
+Mauritius,Boys,172.9697553
+Mexico,Boys,168.2178469
+Micronesia (Federated States of),Boys,168.4767953
+Moldova,Boys,173.23853
+Mongolia,Boys,168.1425713
+Montenegro,Boys,181.4128088
+Morocco,Boys,171.5206073
+Mozambique,Boys,163.5213905
+Myanmar,Boys,163.0281785
+Namibia,Boys,165.4594707
+Nauru,Boys,168.987714
+Nepal,Boys,162.3898617
+Netherlands,Boys,182.1552312
+New Zealand,Boys,176.7929252
+Nicaragua,Boys,167.5486696
+Niger,Boys,165.4360314
+Nigeria,Boys,163.9795641
+Niue,Boys,176.8030012
+North Korea,Boys,171.117973
+Norway,Boys,179.3427232
+Occupied Palestinian Territory,Boys,170.3390469
+Oman,Boys,165.7748864
+Pakistan,Boys,164.2675019
+Palau,Boys,169.8298967
+Panama,Boys,167.9048792
+Papua New Guinea,Boys,160.8736036
+Paraguay,Boys,170.7546767
+Peru,Boys,164.1900747
+Philippines,Boys,162.4785107
+Poland,Boys,177.9335309
+Portugal,Boys,172.430134
+Puerto Rico,Boys,176.0144914
+Qatar,Boys,169.8721184
+Romania,Boys,174.8297401
+Russian Federation,Boys,173.4482864
+Rwanda,Boys,160.3609488
+Saint Kitts and Nevis,Boys,172.3907105
+Saint Lucia,Boys,173.3785843
+Saint Vincent and the Grenadines,Boys,175.0775424
+Samoa,Boys,170.7490587
+Sao Tome and Principe,Boys,165.7819383
+Saudi Arabia,Boys,167.6350664
+Senegal,Boys,171.206255
+Serbia,Boys,178.981564
+Seychelles,Boys,173.4045272
+Sierra Leone,Boys,162.862925
+Singapore,Boys,171.8301324
+Slovakia,Boys,179.3139264
+Slovenia,Boys,179.7091131
+Solomon Islands,Boys,162.5927742
+Somalia,Boys,167.7767092
+South Africa,Boys,167.9452443
+South Korea,Boys,173.5384708
+Spain,Boys,174.5323241
+Sri Lanka,Boys,165.2060414
+Sudan,Boys,167.8623089
+Suriname,Boys,172.530518
+Swaziland,Boys,166.8707003
+Sweden,Boys,179.3562928
+Switzerland,Boys,177.088231
+Syrian Arab Republic,Boys,167.8023308
+Taiwan,Boys,172.1854283
+Tajikistan,Boys,165.9935396
+Tanzania,Boys,162.8564133
+Thailand,Boys,169.5757931
+Timor-Leste,Boys,157.3858625
+Togo,Boys,167.0842613
+Tokelau,Boys,175.1716951
+Tonga,Boys,173.8089853
+Trinidad and Tobago,Boys,174.3963779
+Tunisia,Boys,173.3333365
+Turkey,Boys,173.23782
+Turkmenistan,Boys,169.594222
+Tuvalu,Boys,170.419703
+Uganda,Boys,163.9915728
+Ukraine,Boys,176.6898833
+United Arab Emirates,Boys,171.1053536
+United Kingdom,Boys,176.4973633
+United States of America,Boys,176.128887
+Uruguay,Boys,172.6872109
+Uzbekistan,Boys,168.5478103
+Vanuatu,Boys,167.6517327
+Venezuela,Boys,170.540603
+Viet Nam,Boys,164.188495
+Yemen,Boys,157.7660663
+Zambia,Boys,165.3500082
+Zimbabwe,Boys,166.9858606
+Afghanistan,Girls,153.1009279
+Albania,Girls,161.0149338
+Algeria,Girls,160.1440592
+American Samoa,Girls,165.2597532
+Andorra,Girls,164.1220461
+Angola,Girls,156.631969
+Antigua and Barbuda,Girls,163.7800929
+Argentina,Girls,160.0395753
+Armenia,Girls,158.5966646
+Australia,Girls,164.4387111
+Austria,Girls,165.2194127
+Azerbaijan,Girls,159.2499008
+Bahamas,Girls,162.3399742
+Bahrain,Girls,157.2441867
+Bangladesh,Girls,151.6911328
+Barbados,Girls,164.362709
+Belarus,Girls,164.631581
+Belgium,Girls,164.8856215
+Belize,Girls,157.3187962
+Benin,Girls,157.0471695
+Bermuda,Girls,164.3129609
+Bhutan,Girls,153.5484644
+Bolivia,Girls,154.5114438
+Bosnia and Herzegovina,Girls,165.7354095
+Botswana,Girls,160.714034
+Brazil,Girls,160.7832741
+Brunei Darussalam,Girls,153.449916
+Bulgaria,Girls,162.2263226
+Burkina Faso,Girls,159.5106653
+Burundi,Girls,153.8677101
+Cabo Verde,Girls,160.8466384
+Cambodia,Girls,152.7724073
+Cameroon,Girls,159.3105083
+Canada,Girls,164.2215928
+Central African Republic,Girls,158.0666911
+Chad,Girls,160.8830438
+Chile,Girls,158.6751694
+China,Girls,160.1870758
+China (Hong Kong SAR),Girls,158.9464129
+Colombia,Girls,156.8712625
+Comoros,Girls,155.8220607
+Congo,Girls,157.7298327
+Cook Islands,Girls,165.8370672
+Costa Rica,Girls,158.8603569
+Cote d'Ivoire,Girls,157.8913715
+Croatia,Girls,166.285852
+Cuba,Girls,159.5959767
+Cyprus,Girls,159.9255701
+Czech Republic,Girls,166.7390557
+Denmark,Girls,167.3192508
+Djibouti,Girls,158.5019606
+Dominica,Girls,165.7400049
+Dominican Republic,Girls,159.9244776
+DR Congo,Girls,155.165527
+Ecuador,Girls,153.4848576
+Egypt,Girls,157.4732143
+El Salvador,Girls,154.2453942
+Equatorial Guinea,Girls,156.4040747
+Eritrea,Girls,156.7983129
+Estonia,Girls,167.369021
+Ethiopia,Girls,155.7129452
+Fiji,Girls,161.8897206
+Finland,Girls,165.4541879
+France,Girls,164.1864999
+French Polynesia,Girls,164.7825898
+Gabon,Girls,158.9873992
+Gambia,Girls,160.6556087
+Georgia,Girls,160.866314
+Germany,Girls,165.761933
+Ghana,Girls,157.6999896
+Greece,Girls,164.615302
+Greenland,Girls,161.1296868
+Grenada,Girls,163.505986
+Guatemala,Girls,149.7013066
+Guinea,Girls,158.1233224
+Guinea Bissau,Girls,158.0167815
+Guyana,Girls,158.8486528
+Haiti,Girls,158.9742318
+Honduras,Girls,154.0303834
+Hungary,Girls,161.6356128
+Iceland,Girls,167.2478834
+India,Girls,153.0408356
+Indonesia,Girls,152.6215168
+Iran,Girls,159.7996328
+Iraq,Girls,157.0340205
+Ireland,Girls,163.5496025
+Israel,Girls,161.3217292
+Italy,Girls,160.4243785
+Jamaica,Girls,163.3669206
+Japan,Girls,157.5830843
+Jordan,Girls,158.1413848
+Kazakhstan,Girls,160.5494769
+Kenya,Girls,158.2576067
+Kiribati,Girls,159.5199687
+Kuwait,Girls,158.8119862
+Kyrgyzstan,Girls,158.9008159
+Lao PDR,Girls,151.6202692
+Latvia,Girls,165.8279688
+Lebanon,Girls,162.1633494
+Lesotho,Girls,155.8667609
+Liberia,Girls,155.7272863
+Libya,Girls,160.0645083
+Lithuania,Girls,166.4392766
+Luxembourg,Girls,163.7884038
+Macedonia (TFYR),Girls,159.8129516
+Madagascar,Girls,151.9060196
+Malawi,Girls,154.9718052
+Malaysia,Girls,155.4256181
+Maldives,Girls,153.0009478
+Mali,Girls,160.599092
+Malta,Girls,161.2653072
+Marshall Islands,Girls,153.3971966
+Mauritania,Girls,158.692461
+Mauritius,Girls,158.870239
+Mexico,Girls,156.2628006
+Micronesia (Federated States of),Girls,157.9206941
+Moldova,Girls,162.1690956
+Mongolia,Girls,158.6452244
+Montenegro,Girls,168.0089667
+Morocco,Girls,159.1086494
+Mozambique,Girls,154.3822197
+Myanmar,Girls,153.0173706
+Namibia,Girls,159.3155535
+Nauru,Girls,156.8033419
+Nepal,Girls,151.4559308
+Netherlands,Girls,169.1939018
+New Zealand,Girls,164.637646
+Nicaragua,Girls,154.5516826
+Niger,Girls,158.2770754
+Nigeria,Girls,156.3699342
+Niue,Girls,164.9867369
+North Korea,Girls,158.9324356
+Norway,Girls,166.3381457
+Occupied Palestinian Territory,Girls,159.396236
+Oman,Girls,155.8192887
+Pakistan,Girls,153.5259224
+Palau,Girls,158.711025
+Panama,Girls,156.35417
+Papua New Guinea,Girls,155.3612033
+Paraguay,Girls,158.4088364
+Peru,Girls,152.9940505
+Philippines,Girls,152.4077048
+Poland,Girls,164.6278204
+Portugal,Girls,160.2293889
+Puerto Rico,Girls,162.5458052
+Qatar,Girls,159.192151
+Romania,Girls,162.5941919
+Russian Federation,Girls,163.6589302
+Rwanda,Girls,154.6182376
+Saint Kitts and Nevis,Girls,162.0415181
+Saint Lucia,Girls,163.2206124
+Saint Vincent and the Grenadines,Girls,163.6912294
+Samoa,Girls,160.32891
+Sao Tome and Principe,Girls,158.6128552
+Saudi Arabia,Girls,156.4694597
+Senegal,Girls,162.5998337
+Serbia,Girls,167.2379991
+Seychelles,Girls,161.1713384
+Sierra Leone,Girls,155.6160776
+Singapore,Girls,160.3070872
+Slovakia,Girls,166.1255017
+Slovenia,Girls,166.5927489
+Solomon Islands,Girls,154.7474318
+Somalia,Girls,158.0538651
+South Africa,Girls,158.26642
+South Korea,Girls,160.8884059
+Spain,Girls,162.037336
+Sri Lanka,Girls,154.219585
+Sudan,Girls,158.0648672
+Suriname,Girls,160.2582829
+Swaziland,Girls,158.22154
+Sweden,Girls,166.2771171
+Switzerland,Girls,162.9529818
+Syrian Arab Republic,Girls,157.191151
+Taiwan,Girls,159.3289363
+Tajikistan,Girls,156.5491471
+Tanzania,Girls,155.4913984
+Thailand,Girls,157.7104104
+Timor-Leste,Girls,149.8318753
+Togo,Girls,158.6816648
+Tokelau,Girls,164.5190395
+Tonga,Girls,164.8167812
+Trinidad and Tobago,Girls,162.3535821
+Tunisia,Girls,160.7009007
+Turkey,Girls,160.1402012
+Turkmenistan,Girls,159.8667687
+Tuvalu,Girls,161.7675715
+Uganda,Girls,157.6527763
+Ukraine,Girls,164.9343012
+United Arab Emirates,Girls,158.7780542
+United Kingdom,Girls,163.559043
+United States of America,Girls,162.4483382
+Uruguay,Girls,160.5929253
+Uzbekistan,Girls,158.5288959
+Vanuatu,Girls,158.4011196
+Venezuela,Girls,158.2230304
+Viet Nam,Girls,154.9362297
+Yemen,Girls,151.0690325
+Zambia,Girls,156.2990174
+Zimbabwe,Girls,158.6796191
